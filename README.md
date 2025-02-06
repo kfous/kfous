@@ -1,5 +1,5 @@
 
-# Hi there, I'm Konstantinos! 👋
+# Hi, I'm Konstantinos! 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kfousekis/)
 
 I'm a Copmputer Scientist focusing on AI/ML engineering. I have more than 4 years of experience building software to solve exciting and sometimes hard problems.
