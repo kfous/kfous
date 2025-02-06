@@ -24,3 +24,6 @@ I find joy in ambiguity and feel more engaged when working on problems that I ha
 
 
 📫 You can find me on [Linkedin](https://www.linkedin.com/in/kfousekis/).
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=kfous&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
