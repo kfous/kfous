@@ -24,5 +24,3 @@ I find joy in ambiguity and feel more engaged when working on problems that I ha
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
-## 📈 GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=kfous&hide=prs,issues,contribs&show_icons=false&theme=algolia&hide_title=true&count_private=true)
