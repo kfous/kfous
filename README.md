@@ -7,11 +7,17 @@ I deeply care about unlocking the power of technology and innovation for individ
 I find joy in ambiguity and feel more engaged when working on problems that I haven't experienced before.
 
 ## 🔧 Technical Stack
-**Languages & Tools**  
+**Core Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+**Machine Learning & AI**  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+
+**Data Manipulation**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
 
 **Cloud & Deployment**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
@@ -19,5 +25,4 @@ I find joy in ambiguity and feel more engaged when working on problems that I ha
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
 ## 📈 GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=kfous&show_icons=true&theme=algolia&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kfous&layout=compact&theme=algolia&hide=html,css)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&hide=prs,issues,contribs&show_icons=false&theme=algolia&hide_title=true&count_private=true)
