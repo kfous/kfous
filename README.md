@@ -6,7 +6,7 @@ I'm a Copmputer Scientist focusing on AI/ML engineering. I have more than 4 year
 I deeply care about unlocking the power of technology and innovation for individual and businesses, to upgrade their product and processes in the most efficient way.
 I find joy in ambiguity and feel more engaged when working on problems that I haven't experienced before.
 
-## 🔧 Technical Stack
+## Technical Stack
 **Core Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
