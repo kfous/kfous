@@ -31,5 +31,5 @@ I find joy in ambiguity and feel more engaged when working on problems that I ha
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
 ## 📈 GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=algolia&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=algolia&hide=html,css)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?kfous=yourusername&show_icons=true&theme=algolia&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kfous&layout=compact&theme=algolia&hide=html,css)
