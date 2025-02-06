@@ -26,4 +26,4 @@ I find joy in ambiguity and feel more engaged when working on problems that I ha
 📫 You can find me on [Linkedin](https://www.linkedin.com/in/kfousekis/).
 
 
-![Konstantinos GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
+![Konstantinos GitHub stats](https://github-readme-stats.vercel.app/api?username=kfous&show_icons=true&bg_color=00000000)
